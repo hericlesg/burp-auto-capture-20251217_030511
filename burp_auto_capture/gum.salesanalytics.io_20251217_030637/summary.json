@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20251217_030637", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/gum.salesanalytics.io_20251217_030637/request_001.txt", 
+      "url": "https://gum.salesanalytics.io:443/syncframe?topUrl=esportiva.bet.br", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/gum.salesanalytics.io_20251217_030637/response_001.txt", 
+      "timestamp": 1765951511599
+    }
+  ], 
+  "host": "gum.salesanalytics.io", 
+  "total_requests": 1
+}
